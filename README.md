@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @love3nt
-- 👀 I’m interested in Computers, Programming, Building computers
+- 👀 I’m interested in Computers, Programming, and Cyberseucrity
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Coding Projects
 - 📫 How to reach me love3ntt@gmail.com
